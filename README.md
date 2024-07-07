@@ -145,8 +145,7 @@
 - Giriş yöntemleri google ve facebook olarak belirlendi.
   - **Sprint Bitiminde Ulaşılmak İstenen Puan**: 155
   - **Puan Tamamlama Oranı**: `(155'in hepsi başarıyla tamamlandı)` 1. Sprintde puanlar zorluklara göre belirlendi. Takımın toplantı yapma bir araya gelme konusunda çevresel faktörlerin etkisiyle zorlandığı anlaşıldı bu yüzden "önemli" etiketli görevler 20 puan, uygulamayla alakalı bilgiler 10 puan, UI/UX tasarımları 15 puan olarak sonuçlandırıldı.
-  - **Daily Scrum**: [Sprint 1 Daily Scrum Chats](https://github.com/furkanava/Google-Bootcamp/Bootcamp/scrum/dailyscrum.docx?raw=true)
-  https://github.com/furkanava/Google-Bootcamp/Bootcamp/scrum/dailyscrum.docx
+  - **Daily Scrum**: https://github.com/furkanava/Google-Bootcamp/blob/3c801e862b22f67e44985fb8755ffd60934e46fb/Bootcamp/scrum/dailyscrum.docx
   - **Backlog URL:** <a href="https://1furkan.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiMzgxNTdmYmNjZjRlNDljYWJkMjAxYjhiMDQ1ZGRjYjIiLCJwIjoiaiJ9">
   - **Sprint Review:**
     - Takımda iletişim eksikliği ve toplantılarda bir araya gelmede sorunlar yaşandığı belirlendi. Bir sonraki sprint için daha koordineli hareket etmeye karar verildi
