@@ -27,15 +27,15 @@
       <td>Gökhan Polat </td>
       <td>Product Owner</td>
       <td>
-        <a href="https://github.com/" target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="18" height="18"/></a>
-        <a href="https://www.linkedin.com/in/" target="_blank"><img src="Bootcamp/social_media_logo/linkedin.png" width="18" height="18" /></a>
+        <a href="https://github.com/qokhanp" target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="18" height="18"/></a>
+        <a href="https://www.linkedin.com/in/gokhanp" target="_blank"><img src="Bootcamp/social_media_logo/linkedin.png" width="18" height="18" /></a>
       </td>
     </tr>
     <tr>
       <td>Fadime Bulduklu</td>
       <td>Developer</td>
       <td>
-        <a href="https://github.com/" target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="18" height="18"/></a>
+        <a href="https://github.com/FadimeBulduklu " target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="18" height="18"/></a>
         <a href="https://www.linkedin.com/in/FadimeBulduklu" target="_blank"><img src="Bootcamp/social_media_logo/linkedin.png" width="18" height="18" /></a>
       </td>
     </tr>
@@ -43,16 +43,16 @@
       <td>Ezgi Eyice</td>
       <td>Developer</td>
       <td>
-        <a href="https://github.com/" target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/" target="_blank"><img src="Bootcamp/social_media_logo/linkedin.png" width="18" height="18" /></a>
+        <a href="https://github.com/ezgiieyice" target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/ezgi-eyice-69912916a" target="_blank"><img src="Bootcamp/social_media_logo/linkedin.png" width="18" height="18" /></a>
       </td>
     </tr>
     <tr>
       <td>Görkem Demir</td>
       <td>Developer</td>
       <td>
-        <a href="https://github.com/" target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="20" height="20"/></a>
-        <a href="https://www.linkedin.com/in/" target="_blank"><img src="Bootcamp/social_media_logo/linkedin.png" width="18" height="18" /></a>
+        <a href="https://github.com/gorkemmdemir" target="_blank"><img src="Bootcamp/social_media_logo/github.png" width="20" height="20"/></a>
+        <a href="https://www.linkedin.com/in/gorkemmdemir" target="_blank"><img src="Bootcamp/social_media_logo/linkedin.png" width="18" height="18" /></a>
       </td>
     </tr>
   </table>
