@@ -1,0 +1,5 @@
+flutter_native_splash:
+  color: "#FFFFFF" # Splash ekranı arka plan rengi
+  color_dark: "#272727" # Koyu modda splash ekranı arka plan rengi
+  image: assets/logos/icon.png # Splash ekranında kullanılacak ikonun yolu
+  web: false # Web platformunda splash ekranı kullanımı
