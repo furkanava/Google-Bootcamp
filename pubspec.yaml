@@ -30,6 +30,9 @@ dependencies:
   get: ^4.6.6
   get_storage: ^2.1.1
 
+  # Firebase
+  firebase_core: ^3.2.0
+
   # Product Specific
 
 
@@ -47,14 +50,10 @@ flutter:
   #--------------------- LOCAL ASSETS ---------------------#
   assets:
 
-    - assets/icons/icon.png
-    - assets/logos/icon.png
-    - assets/images/onboarding_images/Animation1.json
-    - assets/images/onboarding_images/Animation2.json
-    - assets/images/onboarding_images/Animation3.json
-    - assets/images/onboarding_images/Animation4.json
-    - assets/images/onboarding_images/Animation5.json
-    - assets/images/onboarding_images/Animation6.json
+    - assets/icons/
+    - assets/logos/
+    - assets/images/onboarding_images/
+    - assets/images/animations/
 
 
   #--------------------- LOCAL FONTS ---------------------#

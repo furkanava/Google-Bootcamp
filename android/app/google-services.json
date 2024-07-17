@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "408724382221",
+    "project_id": "chaboo-77e07",
+    "storage_bucket": "chaboo-77e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408724382221:android:a5495df15261aab38e6b44",
+        "android_client_info": {
+          "package_name": "com.chaboo.chaboo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408724382221-mt5fssjrt0mhnf0u6ivlk45mcesqumpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chaboo.chaboo",
+            "certificate_hash": "2ab9fde0642650a4aff81f32329b798311e80456"
+          }
+        },
+        {
+          "client_id": "408724382221-qt899ro5uiutnau0o9ohcvnun4laj4k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0W6Od0vWTgedGjoVkgXiORw_BS58Vc7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408724382221-qt899ro5uiutnau0o9ohcvnun4laj4k0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408724382221-dnedpduroep7im8pahgik2hqsuajfvlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chaboo.chaboo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

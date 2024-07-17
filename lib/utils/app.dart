@@ -1,3 +1,4 @@
+import 'package:chaboo/features/authentication/screens/login/login.dart';
 import 'package:chaboo/features/authentication/screens/onboarding/onboarding.dart';
 import 'package:chaboo/utils/theme/theme.dart';
 import 'package:flutter/material.dart';
@@ -12,7 +13,7 @@ class App extends StatelessWidget {
       themeMode: ThemeMode.system,
       theme: CBAppTheme.lightTheme,
       darkTheme: CBAppTheme.darkTheme,
-      home: OnboardingScreen(),
+      home: LoginScreen(),
     );
   }
 }
