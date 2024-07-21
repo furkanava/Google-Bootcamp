@@ -71,8 +71,6 @@
         <p>ChaBo, okuma geçmişinizi ve tercihlerinizi analiz ederek size özel kitap önerileri sunar, böylece daha önce fark etmediğiniz kitaplarla tanışabilirsiniz.</p>
         <h3>Sohbet Robotu Rehberliğinde Takas:</h3>
         <p>ChaBoo AI Yardım, kitap seçimi, diğer kullanıcılarla iletişim ve takas detaylarının düzenlenmesi gibi tüm süreçte size rehberlik eder.</p>
-        <h3>Kitap Lira:</h3>
-        <p>Uygulama içerisinde para yükleyebileceğin bir alan bulunmuyor bu yüzden sadece kendi kitaplarını takaslayarak kazanabileceğin "kitap lirayla" alışveriş yapabilirsin. .</p>
         <h3>Kişiselleştirilmiş Kitap Profilleri:</h3>
         <p>En sevdiğiniz türleri, yazarları ve kitapları sergileyen bir profil oluşturarak benzer ilgi alanlarına sahip kitapseverlerle bağlantı kurabilirsiniz.</p>
         <h3>Güvenli ve Kullanışlı:</h3>
@@ -169,5 +167,74 @@
 
     - Süreç github üzerinden yürütülecek.(mümkünse).
   </details>
+   <details>
+    <summary><h1>Sprint 2</h1></summary>
+
+
+  <details>
+    <summary><h3>Sprint 2 - Ekran Görüntüleri</h3></summary>
+  <table style="width: 100%;">
+     <tr>
+      <td colspan="4" style="text-align: center;"><h2>Akış Ekranları</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_akis.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_akis2.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+     <tr>
+      <td colspan="4" style="text-align: center;"><h2>Yeni Takas Ekranları</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_takas.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_takas2.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+    <tr>
+      <td colspan="4" style="text-align: center;"><h2>Mesaj ve Profil Güncellendi</h2></td>
+    </tr>
+    <tr>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/Mesaj1.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/Mesaj2.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_Profil.png" style="max-width: 100%; height: auto;"></td>
+    </tr>
+  </table>
+  </details>  
+
+  <details>
+    <summary><h3>Sprint 2 -  Jira Pano </h3></summary>
+    <img src="Bootcamp/scrum/jira2.png" style="max-width: 100%; height: auto;">
+  </details>
+  <details>
+    <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
+    <img src="Bootcamp/scrum/burndownchart2.png" style="max-width: 100%; height: auto;">
+    - **Araçlar ve Teknoloji**:
+    
+- Proje yönetimi için Jira kullanılacak.
+- UI tasarımı için Figma kullanılacak.
+- Giriş yöntemleri google ve facebook olarak belirlendi.
+  - **Sprint Bitiminde Ulaşılmak İstenen Puan**: 49
+  - **Puan Tamamlama Oranı**: `(49 puandan 35'i tamamlandı)` 2. Sprintde puanlar zorluklara göre belirlendi. Ezgi'nin önerisiyle puanlar literatürdeki gibi fibonacci sayılarına göre hazırlandı. Eksik puanlar sprint 3'de tamamlanacak
+  - **Daily Scrum**: https://github.com/furkanava/Google-Bootcamp/blob/3c801e862b22f67e44985fb8755ffd60934e46fb/Bootcamp/scrum/dailyscrum.docx
+  - **Backlog URL:** <a href="https://1furkan.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiMzgxNTdmYmNjZjRlNDljYWJkMjAxYjhiMDQ1ZGRjYjIiLCJwIjoiaiJ9">
+  - **Sprint Review:**
+    - Takas yönteminin belirlenmesi konusunda takım ortak kararla eğer kullanıcı takas teklifini onaylarsa mesaj bölümünün açılması ve kullanıcıların kendi isteğine göre takas yapması(kargo/buluşma) belirlendi
+
+    - Kitap Lira uygulamasından vazgeçildi. UI/UX buna göre değiştirildi. Yeni ekranlar tasarlandı.
+    
+
+  - **Katılımcılar :** `Furkan Kül`, `Gökhan Polat`, `Ezgi Eyice`, `Fadime Bulduklu`, `Görkem Demir`
+  - **Retrospective:**
+    - Sonraki çalışmamızda sürenin az kaldığı ve takım olarak yavaş ilerlediğimiz için hızlanmaya karar verdik.
+
+    - Akış ekranı geliştirmesi yapılacak bu konuda takım işbirliği içerisinde olacak.
+
+    - Uygulamanın gelirleri konusunda araştırma yapılacak.
+
+    - UI/UX son kez gözden geçirilecek.
+
+    - Yapay Zeka eğitilecek.
+
+    
+  </details>
+
 </body>
 </html>
