@@ -206,11 +206,7 @@
   <details>
     <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
     <img src="Bootcamp/scrum/burndownchart2.png" style="max-width: 100%; height: auto;">
-    - **Araçlar ve Teknoloji**:
-    
-- Proje yönetimi için Jira kullanılacak.
-- UI tasarımı için Figma kullanılacak.
-- Giriş yöntemleri google ve facebook olarak belirlendi.
+   
   - **Sprint Bitiminde Ulaşılmak İstenen Puan**: 49
   - **Puan Tamamlama Oranı**: `(49 puandan 35'i tamamlandı)` 2. Sprintde puanlar zorluklara göre belirlendi. Ezgi'nin önerisiyle puanlar literatürdeki gibi fibonacci sayılarına göre hazırlandı. Eksik puanlar sprint 3'de tamamlanacak
   - **Daily Scrum**: https://github.com/furkanava/Google-Bootcamp/blob/3c801e862b22f67e44985fb8755ffd60934e46fb/Bootcamp/scrum/dailyscrum.docx
