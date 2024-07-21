@@ -202,7 +202,6 @@
 
   <details>
     <summary><h3>Sprint 2 -  Jira Pano </h3></summary>
-  <details>
 
     <img src="Bootcamp/scrum/jira2.png" style="max-width: 100%; height: auto;">
   </details>
