@@ -261,38 +261,5 @@
     </tr>
   </table>
   </details>  
-
-  <details>
-    <summary><h3>Sprint 2 -  Jira Pano </h3></summary>
-    <img src="Bootcamp/scrum/jira2.png" style="max-width: 100%; height: auto;">
-  </details>
-  <details>
-    <summary><h3>Sprint 2 - Burndown Chart</h3></summary>
-    <img src="Bootcamp/scrum/burndownchart2.png" style="max-width: 100%; height: auto;">
-    
-  - **Sprint Bitiminde Ulaşılmak İstenen Puan**: 49
-  - **Puan Tamamlama Oranı**: `(49 puandan 35'i tamamlandı)` 2. Sprintde puanlar zorluklara göre belirlendi. Ezgi'nin önerisiyle puanlar literatürdeki gibi fibonacci sayılarına göre hazırlandı. Eksik puanlar sprint 3'de tamamlanacak
-  - **Daily Scrum**: https://github.com/furkanava/Google-Bootcamp/blob/3c801e862b22f67e44985fb8755ffd60934e46fb/Bootcamp/scrum/dailyscrum.docx
-  - **Backlog URL:** <a href="https://1furkan.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiMzgxNTdmYmNjZjRlNDljYWJkMjAxYjhiMDQ1ZGRjYjIiLCJwIjoiaiJ9">
-  - **Sprint Review:**
-    - Takas yönteminin belirlenmesi konusunda takım ortak kararla eğer kullanıcı takas teklifini onaylarsa mesaj bölümünün açılması ve kullanıcıların kendi isteğine göre takas yapması(kargo/buluşma) belirlendi
-
-    - Kitap Lira uygulamasından vazgeçildi. UI/UX buna göre değiştirildi. Yeni ekranlar tasarlandı.
-    
-
-  - **Katılımcılar :** `Furkan Kül`, `Gökhan Polat`, `Ezgi Eyice`, `Fadime Bulduklu`, `Görkem Demir`
-  - **Retrospective:**
-    - Sonraki çalışmamızda sürenin az kaldığı ve takım olarak yavaş ilerlediğimiz için hızlanmaya karar verdik.
-
-    - Akış ekranı geliştirmesi yapılacak bu konuda takım işbirliği içerisinde olacak.
-
-    - Uygulamanın gelirleri konusunda araştırma yapılacak.
-
-    - UI/UX son kez gözden geçirilecek.
-
-    - Yapay Zeka eğitilecek.
-
-    
-  </details>
 </body>
 </html>
