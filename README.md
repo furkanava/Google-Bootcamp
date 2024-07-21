@@ -185,14 +185,14 @@
       <td colspan="4" style="text-align: center;"><h2>Yeni Takas Ekranları</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_takas.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/update_takas.png" style="max-width: 100%; height: auto;"></td>
       <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_takas2.png" style="max-width: 100%; height: auto;"></td>
     </tr>
     <tr>
       <td colspan="4" style="text-align: center;"><h2>Mesaj ve Profil Güncellendi</h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Bootcamp/sprint2/Mesaj1.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint2/Mesaj.png" style="max-width: 100%; height: auto;"></td>
       <td style="width: 25%;"><img src="Bootcamp/sprint2/Mesaj2.png" style="max-width: 100%; height: auto;"></td>
       <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_Profil.png" style="max-width: 100%; height: auto;"></td>
     </tr>
@@ -201,6 +201,8 @@
 
   <details>
     <summary><h3>Sprint 2 -  Jira Pano </h3></summary>
+  <details>
+  
     <img src="Bootcamp/scrum/jira2.png" style="max-width: 100%; height: auto;">
   </details>
   <details>
