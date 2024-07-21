@@ -167,12 +167,11 @@
 
     - Süreç github üzerinden yürütülecek.(mümkünse).
   </details>
-   <details>
+  <details>
     <summary><h1>Sprint 2</h1></summary>
-
-
   <details>
     <summary><h3>Sprint 2 - Ekran Görüntüleri</h3></summary>
+  
   <table style="width: 100%;">
      <tr>
       <td colspan="4" style="text-align: center;"><h2>Akış Ekranları</h2></td>
@@ -202,7 +201,7 @@
   <details>
     <summary><h3>Sprint 2 -  Jira Pano </h3></summary>
   <details>
-  
+
     <img src="Bootcamp/scrum/jira2.png" style="max-width: 100%; height: auto;">
   </details>
   <details>
