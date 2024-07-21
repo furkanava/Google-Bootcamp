@@ -167,6 +167,8 @@
 
     - Süreç github üzerinden yürütülecek.(mümkünse).
   </details>
+  </details>
+
   <details>
     <summary><h1>Sprint 2</h1></summary>
   <details>
@@ -232,5 +234,7 @@
 
     
   </details>
+  </details>
+
 </body>
 </html>
