@@ -212,7 +212,8 @@
   - **Sprint Bitiminde Ulaşılmak İstenen Puan**: 49
   - **Puan Tamamlama Oranı**: `(49 puandan 35'i tamamlandı)` 2. Sprintde puanlar zorluklara göre belirlendi. Ezgi'nin önerisiyle puanlar literatürdeki gibi fibonacci sayılarına göre hazırlandı. Eksik puanlar sprint 3'de tamamlanacak
   - **Daily Scrum**: https://github.com/furkanava/Google-Bootcamp/blob/3c801e862b22f67e44985fb8755ffd60934e46fb/Bootcamp/scrum/dailyscrum.docx
-  - **Backlog URL:** <a href="https://1furkan.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiMzgxNTdmYmNjZjRlNDljYWJkMjAxYjhiMDQ1ZGRjYjIiLCJwIjoiaiJ9">
+  - **Backlog URL:** 
+https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
   - **Sprint Review:**
     - Takas yönteminin belirlenmesi konusunda takım ortak kararla eğer kullanıcı takas teklifini onaylarsa mesaj bölümünün açılması ve kullanıcıların kendi isteğine göre takas yapması(kargo/buluşma) belirlendi
 
