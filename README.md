@@ -234,8 +234,8 @@ https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
 
     
 **Sprint Notları:**
-    - Sprint 2'de ekranların yavaş geliştirilmesi dolayısıyla son sprint için aktif ve hızlı çalışılacak
-    - Eğer eklenecekse kargo vb. süreçlerin uygulama tamamlandıktan sonra düşünülmesi.
+    - Sprint 2'de ekranların yavaş geliştirilmesi dolayısıyla son sprint için aktif ve hızlı çalışılacak <br>
+    - Eğer eklenecekse kargo vb. süreçlerin uygulama tamamlandıktan sonra düşünülmesi.<br>
     - Takım içi koordinasyon ve işbirliğinin arttırılması
 
   </details>
