@@ -54,7 +54,7 @@ flutter:
     - assets/logos/
     - assets/images/onboarding_images/
     - assets/images/animations/
-
+    - assets/images/books/
 
   #--------------------- LOCAL FONTS ---------------------#
   fonts:
@@ -75,4 +75,7 @@ flutter:
           weight: 600
         - asset: assets/fonts/Poppins-Bold.ttf
           weight: 800
-
+    - family: Coolvetica
+      fonts:
+        - asset: assets/fonts/coolvetica-rg.ttf
+        - asset: assets/fonts/coolvetica_rg_it.otf

@@ -10,6 +10,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
+import 'package:chaboo/features/authentication/screens/homepage/home_page.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({Key? key}) : super(key: key);
@@ -30,92 +31,132 @@ class LoginScreen extends StatelessWidget {
                 children: [
                   Image(
                     height: 200,
-                    image: AssetImage(dark ? CBImages.lightAppLogo : CBImages.darkAppLogo),
+                    image: AssetImage(
+                        dark ? CBImages.lightAppLogo : CBImages.darkAppLogo),
                   ),
-                  Text(CBTexts.loginTitle, style: Theme.of(context).textTheme.headlineMedium),
+                  Text(CBTexts.loginTitle,
+                      style: Theme.of(context).textTheme.headlineMedium),
                   const SizedBox(height: CBSizes.sm),
-                  Text(CBTexts.loginSubtitle, style: Theme.of(context).textTheme.bodyMedium),
+                  Text(CBTexts.loginSubtitle,
+                      style: Theme.of(context).textTheme.bodyMedium),
                 ],
               ),
+
               /// form
-              Form(child: Padding(
-                padding: const EdgeInsets.symmetric(vertical: CBSizes.spaceBtwSections),
-                child: Column(
-                  children: [
-                    ///email
-                    TextFormField(
-                      decoration: const InputDecoration(
-                        prefixIcon: Icon(Iconsax.direct_right),
-                        labelText: CBTexts.email,
-                      ),
-                    ),
-
-                    const SizedBox(height: CBSizes.spaceBtwInputFields),
-
-                    ///password
-                    TextFormField(
-                      decoration: const InputDecoration(
-                        prefixIcon: Icon(Iconsax.password_check),
-                        labelText: CBTexts.password,
-                        suffixIcon: Icon(Iconsax.eye_slash),
-                      ),
-                    ),
-
-                    const SizedBox(height: CBSizes.spaceBtwInputFields / 2),
-
-                    ///remember me - forget pssword
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
-                        ///remember me
-                        Row(
-                          children: [
-                            Checkbox(
-                              value: true,
-                              onChanged: (value) {},
-                              activeColor: CBColors.primary, // Checkbox işaretli olduğunda kullanılan renk
-                              checkColor: Colors.white, // Checkbox içindeki işaretin rengi
-                              side: const BorderSide(color: CBColors.primary), // Checkbox kenarlık rengi ve genişliği
-                            ),
-                            const Text(CBTexts.rememberMe),
-                          ],
+              Form(
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(
+                      vertical: CBSizes.spaceBtwSections),
+                  child: Column(
+                    children: [
+                      ///email
+                      TextFormField(
+                        decoration: const InputDecoration(
+                          prefixIcon: Icon(Iconsax.direct_right),
+                          labelText: CBTexts.email,
                         ),
-                        ///forget password
-                        TextButton(onPressed: (){}, child: const Text(CBTexts.forgotPassword)),
-                      ],
-                    ),
-                    const SizedBox(height: CBSizes.spaceBtwSections),
-
-                    ///sign in method
-                    SizedBox(width: double.infinity, child: ElevatedButton(
-                      onPressed: (){},
-                      child: Text(CBTexts.signIn),
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: CBColors.primary,
-                        foregroundColor: CBColors.textWhite,
-                        side: BorderSide(color: CBColors.primary),// Buton metin rengi
                       ),
-                    )
-                    ),
-                    const SizedBox(height: CBSizes.spaceBtwItems),
 
-                    ///create account button
-                    SizedBox(width: double.infinity, child: OutlinedButton(onPressed: () => Get.to(()=> const SignupScreen()), child: Text(CBTexts.createAccount),
-                      style: OutlinedButton.styleFrom(
-                        side: BorderSide(color: CBColors.primary), // Buton kenarlık rengi
-                      ),)),
-                  ],
+                      const SizedBox(height: CBSizes.spaceBtwInputFields),
+
+                      ///password
+                      TextFormField(
+                        decoration: const InputDecoration(
+                          prefixIcon: Icon(Iconsax.password_check),
+                          labelText: CBTexts.password,
+                          suffixIcon: Icon(Iconsax.eye_slash),
+                        ),
+                      ),
+
+                      const SizedBox(height: CBSizes.spaceBtwInputFields / 2),
+
+                      ///remember me - forget pssword
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          ///remember me
+                          Row(
+                            children: [
+                              Checkbox(
+                                value: true,
+                                onChanged: (value) {},
+                                activeColor: CBColors
+                                    .primary, // Checkbox işaretli olduğunda kullanılan renk
+                                checkColor: Colors
+                                    .white, // Checkbox içindeki işaretin rengi
+                                side: const BorderSide(
+                                    color: CBColors
+                                        .primary), // Checkbox kenarlık rengi ve genişliği
+                              ),
+                              const Text(CBTexts.rememberMe),
+                            ],
+                          ),
+
+                          ///forget password
+                          TextButton(
+                              onPressed: () {},
+                              child: const Text(CBTexts.forgotPassword)),
+                        ],
+                      ),
+                      const SizedBox(height: CBSizes.spaceBtwSections),
+
+                      ///sign in method
+                      SizedBox(
+                          width: double.infinity,
+                          child: ElevatedButton(
+                            onPressed: () {
+                              // Navigate to HomePage
+                              Navigator.pushReplacement(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => HomePage()),
+                              );
+                            },
+                            child: Text(CBTexts.signIn),
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: CBColors.primary,
+                              foregroundColor: CBColors.textWhite,
+                              side: BorderSide(
+                                  color: CBColors.primary), // Buton metin rengi
+                            ),
+                          )),
+                      const SizedBox(height: CBSizes.spaceBtwItems),
+
+                      ///create account button
+                      SizedBox(
+                          width: double.infinity,
+                          child: OutlinedButton(
+                            onPressed: () => Get.to(() => const SignupScreen()),
+                            child: Text(CBTexts.createAccount),
+                            style: OutlinedButton.styleFrom(
+                              side: BorderSide(
+                                  color:
+                                      CBColors.primary), // Buton kenarlık rengi
+                            ),
+                          )),
+                    ],
+                  ),
                 ),
               ),
-              ),
+
               ///divider
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Flexible(child: Divider(color: dark ? CBColors.darkGrey : CBColors.black, thickness: 0.5, indent: 60, endIndent: 5)),
-                  Text(CBTexts.signInWith.capitalize!, style: Theme.of(context).textTheme.labelMedium),
-                  Flexible(child: Divider(color: dark ? CBColors.darkGrey : CBColors.black, thickness: 0.5, indent: 5, endIndent: 60)),
-
+                  Flexible(
+                      child: Divider(
+                          color: dark ? CBColors.darkGrey : CBColors.black,
+                          thickness: 0.5,
+                          indent: 60,
+                          endIndent: 5)),
+                  Text(CBTexts.signInWith.capitalize!,
+                      style: Theme.of(context).textTheme.labelMedium),
+                  Flexible(
+                      child: Divider(
+                          color: dark ? CBColors.darkGrey : CBColors.black,
+                          thickness: 0.5,
+                          indent: 5,
+                          endIndent: 60)),
                 ],
               ),
               const SizedBox(height: CBSizes.spaceBtwSections),
@@ -125,20 +166,24 @@ class LoginScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Container(
-                    decoration: BoxDecoration(border: Border.all(color: CBColors.greyColor),borderRadius: BorderRadius.circular(100)),
+                    decoration: BoxDecoration(
+                        border: Border.all(color: CBColors.greyColor),
+                        borderRadius: BorderRadius.circular(100)),
                     child: IconButton(
-                      onPressed: (){},
+                      onPressed: () {},
                       icon: const Image(
-                        width: CBSizes.iconMd,
-                        height: CBSizes.iconMd,
-                        image: AssetImage(CBImages.google)),
+                          width: CBSizes.iconMd,
+                          height: CBSizes.iconMd,
+                          image: AssetImage(CBImages.google)),
                     ),
                   ),
                   const SizedBox(width: CBSizes.spaceBtwItems),
                   Container(
-                    decoration: BoxDecoration(border: Border.all(color: CBColors.greyColor),borderRadius: BorderRadius.circular(100)),
+                    decoration: BoxDecoration(
+                        border: Border.all(color: CBColors.greyColor),
+                        borderRadius: BorderRadius.circular(100)),
                     child: IconButton(
-                      onPressed: (){},
+                      onPressed: () {},
                       icon: const Image(
                           width: CBSizes.iconMd,
                           height: CBSizes.iconMd,
