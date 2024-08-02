@@ -300,7 +300,7 @@ https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
 
     - Mesajlar ekranı için 5 why tekniğiyle müzakere ettik ve sonuç olarak iki taraflı veri akışı gerektiğinden ve iş yoğunluğundan dolayı yetiştiremediğimizi öğrendik. 
 
-    - Takımdaki herkesin tasarım, kodlama, proje yönetimi alanlarında iyi kazanımlar elde ettiğinden bahsettik.
+    - Takımdaki herkesin tasarım, kodlama, proje yönetimi alanlarında iyi kazanımlar elde ettiğinden bahsettik. <br>
      **Sprint Notları:** <br>
     - Sprint 3'de iş yükünü iyi ayarlayamadık <br>
     - 3 Developerımız da yoğun olduğu için mesajlar ekranı ve bazı ekranları planladığımız gibi yetiştiremedik. Bazıları fonksiyonsuz oldu.<br>
