@@ -294,8 +294,7 @@ https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
 
   - **Katılımcılar :** `Furkan Kül`, `Gökhan Polat`, `Ezgi Eyice`, `Fadime Bulduklu`, `Görkem Demir`
   - **Retrospective:**
-    - Sonraki çalışmamızda sürenin az kaldığı ve takım olarak yavaş ilerlediğimiz için hızlanmaya karar verdik.
-
+    
     - Proje hedeflerine tam olarak ulaşamasakta yakınlaştığımızı konuştuk.
 
     - Mesajlar ekranı için 5 why tekniğiyle müzakere ettik ve sonuç olarak iki taraflı veri akışı gerektiğinden ve iş yoğunluğundan dolayı yetiştiremediğimizi öğrendik. 
