@@ -232,7 +232,7 @@ https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
 
     - Yapay Zeka eğitilecek.
 
-    
+
 **Sprint Notları:** <br>
     - Sprint 2'de ekranların yavaş geliştirilmesi dolayısıyla son sprint için aktif ve hızlı çalışılacak <br>
     - Eğer eklenecekse kargo vb. süreçlerin uygulama tamamlandıktan sonra düşünülmesi.<br>
@@ -286,7 +286,7 @@ https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
   - **Sprint Bitiminde Ulaşılmak İstenen Puan**: 36
   - **Puan Tamamlama Oranı**: `(36 puandan 31'i tamamlandı)` 3. Sprintde de puanlar zorluklara göre belirlendi. Fibonacci sayılarına göre hazırlandı. Eksik puanlar sprint 3'de tamamlandı. Mesajlar kısmı yetişmedi. 3 Sprintde toplam hedeflediğimiz 240 puanın 221'ini başarıyla tamamladık.
   - **Daily Scrum**: https://github.com/furkanava/Google-Bootcamp/blob/3c801e862b22f67e44985fb8755ffd60934e46fb/Bootcamp/scrum/dailyscrum.docx
-  - **Backlog URL:** <a href="https://1furkan.atlassian.net/jira/software/projects/SCRUM/list?atlOrigin=eyJpIjoiMzgxNTdmYmNjZjRlNDljYWJkMjAxYjhiMDQ1ZGRjYjIiLCJwIjoiaiJ9">
+  - **Backlog URL:** 1furkan.atlassian.net/jira/software/projects/SCRUM/list
   - **Sprint Review:**
     - Kargo uygulamasından vazgeçildi. Kullanıcıların kendi isteklerine göre takaslar planlaması düşünüldü.
 
@@ -295,14 +295,16 @@ https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
 
   - **Katılımcılar :** `Furkan Kül`, `Gökhan Polat`, `Ezgi Eyice`, `Fadime Bulduklu`, `Görkem Demir`
   - **Retrospective:**
-    - Sonraki çalışmamızda sürenin az kaldığı ve takım olarak yavaş ilerlediğimiz için hızlanmaya karar verdik.
-
+    
     - Proje hedeflerine tam olarak ulaşamasakta yakınlaştığımızı konuştuk.
 
     - Mesajlar ekranı için 5 why tekniğiyle müzakere ettik ve sonuç olarak iki taraflı veri akışı gerektiğinden ve iş yoğunluğundan dolayı yetiştiremediğimizi öğrendik. 
 
-    - Takımdaki herkesin tasarım, kodlama, proje yönetimi alanlarında iyi kazanımlar elde ettiğinden bahsettik.
-
+    - Takımdaki herkesin tasarım, kodlama, proje yönetimi alanlarında iyi kazanımlar elde ettiğinden bahsettik. <br> <br>
+     **Sprint Notları:** <br>
+    - Sprint 3'de iş yükünü iyi ayarlayamadık <br>
+    - 3 Developerımız da yoğun olduğu için mesajlar ekranı ve bazı ekranları planladığımız gibi yetiştiremedik. Bazıları fonksiyonsuz oldu.<br>
+       
   </details>
   </details>
 
