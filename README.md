@@ -248,11 +248,12 @@ https://1furkan.atlassian.net/jira/software/projects/SCRUM/list
   
   <table style="width: 100%;">
      <tr>
-      <td colspan="4" style="text-align: center;"><h2>Ekranlar Güncellendi</h2></td>
+      <td colspan="4" style="text-align: center;"><h2>Ekranlar </h2></td>
     </tr>
     <tr>
-      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_akis.png" style="max-width: 100%; height: auto;"></td>
-      <td style="width: 25%;"><img src="Bootcamp/sprint2/updated_akis2.png" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint3/giris_Son.jpeg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint3/kayit_Son.jpeg" style="max-width: 100%; height: auto;"></td>
+      <td style="width: 25%;"><img src="Bootcamp/sprint3/dogrula.jpeg" style="max-width: 100%; height: auto;"></td>
     </tr>
      <tr>
       <td colspan="4" style="text-align: center;"><h2>Yeni Takas Ekranları</h2></td>
