@@ -55,6 +55,7 @@ flutter:
     - assets/images/onboarding_images/
     - assets/images/animations/
     - assets/images/books/
+    - assets/images/other/profile_pic.jpg
 
   #--------------------- LOCAL FONTS ---------------------#
   fonts:
